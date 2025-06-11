@@ -1,5 +1,5 @@
 # Digital Forensics
-My write-ups from solving assignments in the Digital Forensics course at TU Wien.
+My write-ups from solving assignments in the Digital Forensics S2025 course at TU Wien.
 
 ## Assignment 1: Veracrypt
 This project involved recovering a password from a VeraCrypt container using a GPU-accelerated brute-force attack with Hashcat. Password was successfully cracked, allowing access to the container's contents, which included image files and a text file with a hash value.
